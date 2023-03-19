@@ -1,4 +1,4 @@
-import Action from "@civ-clone/core-unit/Action";
+import Action from '@civ-clone/core-unit/Action';
 
 export class Disband extends Action {
   perform() {
